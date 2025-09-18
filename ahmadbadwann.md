@@ -1,4 +1,4 @@
-# Ahmad-Badwan
+# ahmadbadwann
 👋 Hi, I'm Ahmad Badwan
 
 🎓 Computer Science student at Al-Quds University – Abu Dis.
