@@ -1,50 +1,54 @@
-# ahmadbadwann
-👋 Hi, I'm Ahmad Badwan
+# 👋 Hi, I'm Ahmad Badwan
 
-🎓 Computer Science student at Al-Quds University – Abu Dis.
-💻 Passionate about building scalable web applications and learning modern development practices.
+🎓 **Computer Science student** at **Al-Quds University – Abu Dis**  
+💻 Passionate about building scalable web applications and learning modern development practices
 
-🚀 About Me
+---
 
-🌱 Currently improving my skills in Java, HTML, CSS, JavaScript, and MySQL.
+## 🚀 About Me
 
-🔧 Interested in both frontend (design & usability) and backend (logic & databases).
+🌱 Currently improving my skills in:
+- Java
+- HTML & CSS
+- JavaScript (ES6+)
+- MySQL
 
-🎯 My goal is to become a professional Full-Stack Developer capable of delivering complete solutions.
+🔧 Interested in:
+- Frontend (design & usability)
+- Backend (logic & databases)
 
-🛠️ Tech Stack
-Frontend
+🎯 **Goal**: Become a professional Full-Stack Developer capable of delivering complete solutions
 
-HTML5
+---
 
-CSS3
+## 🛠️ Tech Stack
 
-JavaScript (ES6+)
+**Frontend**  
+`HTML5` `CSS3` `JavaScript (ES6+)`
 
-Backend
+**Backend**  
+`Java`
 
-Java
+**Database**  
+`MySQL`
 
-Database
+---
 
-MySQL
+## 📌 Current Focus
 
-📌 Current Focus
+- Mastering Java backend development  
+- Strengthening database design & SQL queries  
+- Practicing responsive frontend design  
+- Building small full-stack projects to connect frontend, backend, and database
 
-Mastering Java backend development
+---
 
-Strengthening database design & SQL queries
+## 📫 Contact Me
 
-Practicing responsive frontend design
-
-Working on small full-stack projects to connect frontend, backend, and database
-
-📫 Contact Me
-
-📧 Email: ahmad.badwan@students.alquds.edu
-
-🌍 GitHub: ahmadbadwann
-
+📧 Email: [ahmad.badwan@students.alquds.edu](mailto:ahmad.badwan@students.alquds.edu)  
+🌍 GitHub: [ahmadbadwann](https://github.com/ahmadbadwann)  
 🏫 University: Al-Quds University – Abu Dis
 
-✨ This README will grow as I learn and build more projects!
+---
+
+✨ _This README will grow as I learn and build more projects!_
