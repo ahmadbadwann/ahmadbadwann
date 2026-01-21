@@ -1,45 +1,49 @@
 # 👋 Hi, I'm Ahmad Badwan
 
-🎓 **Computer Science student** at **Al-Quds University – Abu Dis**  
-💻 Passionate about building scalable web applications and learning modern development practices
+🎓 **Computer Science Student** at **Al-Quds University** 🚀 **Certified Full Stack Developer** (AXSOS Academy Graduate)
 
 ---
 
 ## 🚀 About Me
 
-🌱 Currently improving my skills in:
-- Java
-- HTML & CSS
-- JavaScript (ES6+)
-- MySQL
+I am a passionate Full Stack Developer with experience in building scalable web applications using multiple technology stacks. I recently graduated from the **AXSOS Academy** Full Stack Bootcamp, where I mastered **MERN**, **Python**, and **Java** ecosystems.
 
-🔧 Interested in:
-- Frontend (design & usability)
-- Backend (logic & databases)
-
-🎯 **Goal**: Become a professional Full-Stack Developer capable of delivering complete solutions
+I enjoy solving complex problems and can seamlessly switch between different backend frameworks and frontend libraries.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
-**Frontend**  
-`HTML5` `CSS3` `JavaScript (ES6+)`
+### 💻 Languages
+`Java` `Python` `JavaScript (ES6+)`
 
-**Backend**  
-`Java`
+### 🎨 Frontend
+`React.js` `Tailwind CSS` `HTML5` `CSS3` `Bootstrap`
 
-**Database**  
-`MySQL`
+### ⚙️ Backend Frameworks
+**Java Stack:** `Spring Boot`  
+**Python Stack:** `Django` `Flask`  
+**MERN Stack:** `Node.js` `Express.js`
+
+### 🗄️ Databases
+`MySQL` `MongoDB`
 
 ---
 
-## 📌 Current Focus
+## 📌 What I Do
 
-- Mastering Java backend development  
-- Strengthening database design & SQL queries  
-- Practicing responsive frontend design  
-- Building small full-stack projects to connect frontend, backend, and database
+* **Full Stack Development:** Building complete web solutions from database design to responsive frontend.
+* **Responsive Design:** Creating modern UI using **Tailwind CSS** and React.
+* **API Development:** Building RESTful APIs using Spring Boot, Django, and Express.
+* **Database Management:** Designing schemas for both Relational (SQL) and NoSQL databases.
+
+---
+
+## 🎓 Education
+
+**🏫 Al-Quds University – Abu Dis** *Bachelor in Computer Science*
+
+**🎓 AXSOS Academy** *Full Stack Web Development Bootcamp* > Intensive training covering Python (Django), Java (Spring Boot), and MERN Stack.
 
 ---
 
@@ -47,8 +51,7 @@
 
 📧 Email: [ahmad.badwan@students.alquds.edu](mailto:ahmad.badwan@students.alquds.edu)  
 🌍 GitHub: [ahmadbadwann](https://github.com/ahmadbadwann)  
-🏫 University: Al-Quds University – Abu Dis
+💼 LinkedIn: [www.linkedin.com/in/ahmad-badwan-789a5a39b]
 
 ---
-
-✨ _This README will grow as I learn and build more projects!_
+✨ _Always learning, always building._
